@@ -6189,10 +6189,10 @@ jest@^27.4.3:
     import-local "^3.0.2"
     jest-cli "^27.5.1"
 
-js-flipper@*:
-  version "0.203.0"
-  resolved "https://registry.yarnpkg.com/js-flipper/-/js-flipper-0.203.0.tgz#720ba023a717982f0c64d33ddea9a327d0939d05"
-  integrity sha512-/lEEG9wuQpLoZP3OaeY2dC+Dbbejmn18RajkFXgOjgw9AvHQFsLqum9bwdRmukoq0mIvtUvA/J6SfahqJu4o/Q==
+js-flipper@0.211.1:
+  version "0.211.1"
+  resolved "https://registry.yarnpkg.com/js-flipper/-/js-flipper-0.211.1.tgz#5bf592a6833e92de65cc56a7f51ed0ab86eb33d3"
+  integrity sha512-m3K5oVsTdKG9nXu9Lyl3Ptk+IPEjsSnPwT6o8k+qyGnBWfSj5F0xqX2+X9yIYSyeh2cj5JgOhsiG5fxx4j7FEQ==
 
 "js-tokens@^3.0.0 || ^4.0.0", js-tokens@^4.0.0:
   version "4.0.0"
