@@ -16,7 +16,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "inquirer": "^8.2.4",
+    "inquirer": "^8.2.6",
     "ws": "^8.6.0"
   },
   "files": [
