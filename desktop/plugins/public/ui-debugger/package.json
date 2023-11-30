@@ -16,7 +16,7 @@
     "lodash": "^4.17.21",
     "react-color": "^2.19.3",
     "react-hotkeys-hook": "^3.4.7",
-    "react-query": "^3.39.1",
+    "react-query": "^4.0.0",
     "async": "2.3.0",
     "@tanstack/react-virtual": "3.0.0-beta.54",
     "ts-retry-promise": "^0.7.0",
