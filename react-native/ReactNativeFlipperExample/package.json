@@ -12,9 +12,9 @@
   },
   "dependencies": {
     "react": "^18.0.0",
-    "react-native": "^0.69.7",
+    "react-native": "^0.72.0",
     "react-native-flipper": "^0.195.0",
-    "react-native-windows": "^0.69.0"
+    "react-native-windows": "^0.72.0"
   },
   "devDependencies": {
     "@babel/core": "^7.21.3",
