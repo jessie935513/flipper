@@ -19,7 +19,7 @@
     "flipper-plugin"
   ],
   "dependencies": {
-    "@rollup/plugin-commonjs": "^21.0.3",
+    "@rollup/plugin-commonjs": "^26.0.0",
     "@rollup/plugin-node-resolve": "^13.1.3",
     "react-devtools-core": "^4.28.0",
     "react-devtools-inline": "^4.28.0",
