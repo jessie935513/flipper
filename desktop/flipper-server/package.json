@@ -20,10 +20,10 @@
     "flipper-server-client": "0.0.0",
     "fs-extra": "^11.1.0",
     "http-proxy": "^1.18.1",
-    "metro": "^0.70.2",
+    "metro": "^0.78.0",
     "open": "^8.3.0",
     "p-filter": "^2.1.0",
-    "ws": "8.8.0",
+    "ws": "8.17.1",
     "reconnecting-websocket": "^4.4.0",
     "xdg-basedir": "^4",
     "yargs": "^17.6.2"
