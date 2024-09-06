@@ -13,7 +13,7 @@
   ],
   "dependencies": {
     "dateformat": "^4.5.1",
-    "sql-formatter": "^2.3.3"
+    "sql-formatter": "^3.1.0"
   },
   "devDependencies": {
     "@testing-library/react": "^11.2.5",
