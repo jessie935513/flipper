@@ -17,7 +17,7 @@
     "async-mutex": "^0.3.2",
     "axios": "^0.26.0",
     "exit-hook": "^2.1.1",
-    "express": "^4.17.3",
+    "express": "^4.21.1",
     "flipper-common": "0.0.0",
     "flipper-doctor": "0.0.0",
     "flipper-plugin-core": "0.0.0",
