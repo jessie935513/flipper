@@ -23,7 +23,7 @@
     "flipper-plugin-core": "0.0.0",
     "flipper-plugin-lib": "0.0.0",
     "flipper-server-companion": "0.0.0",
-    "form-data": "^4.0.0",
+    "form-data": "^4.0.4",
     "fs-extra": "^11.1.0",
     "invariant": "^2.2.4",
     "js-base64": "^3.7.5",
