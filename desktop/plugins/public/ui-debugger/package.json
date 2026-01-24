@@ -13,7 +13,7 @@
     "flipper-plugin"
   ],
   "dependencies": {
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "react-color": "^2.19.3",
     "react-hotkeys-hook": "^3.4.7",
     "react-query": "^3.39.1",
