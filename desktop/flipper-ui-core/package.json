@@ -29,7 +29,7 @@
     "immer": "^9.0.18",
     "js-base64": "^3.7.5",
     "jszip": "^3.10.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lodash.memoize": "^4.1.2",
     "p-map": "^4.0.0",
     "react": "^0.0.0-experimental-14c2be8da-20220304",
